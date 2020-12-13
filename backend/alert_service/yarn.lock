@@ -1807,9 +1807,9 @@ inherits@2.0.3:
   integrity sha1-Yzwsg+PaQqUC9SRmAiSA9CCCYd4=
 
 ini@^1.3.4, ini@~1.3.0:
-  version "1.3.5"
-  resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.5.tgz#eee25f56db1c9ec6085e0c22778083f596abf927"
-  integrity sha512-RZY5huIKCMRWDUqZlEi72f/lmXKMvuszcMBduliQ3nnWbx9X/ZBQO7DijMEYS9EhHBb2qacRUMtC7svLwe0lcw==
+  version "1.3.8"
+  resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.8.tgz#a29da425b48806f34767a4efce397269af28432c"
+  integrity sha512-JV/yugV2uzW5iMRSiZAyDtQd+nxtUnjeLt0acNdw98kKLrvuRVyB80tsREOE7yvGVgalhZ6RNXCmEHkUKBKxew==
 
 inquirer@^7.0.0:
   version "7.0.4"
@@ -2743,7 +2743,7 @@ node-environment-flags@1.0.5:
     object.getownpropertydescriptors "^2.0.3"
     semver "^5.7.0"
 
-node-pre-gyp@*, node-pre-gyp@0.14.0:
+node-pre-gyp@0.14.0:
   version "0.14.0"
   resolved "https://registry.yarnpkg.com/node-pre-gyp/-/node-pre-gyp-0.14.0.tgz#9a0596533b877289bcad4e143982ca3d904ddc83"
   integrity sha512-+CvDC7ZttU/sSt9rFjix/P05iS43qHCOOGzcr3Ry99bXG7VX953+vFyEuph/tfqoYu8dttBkE86JSKBO2OzcxA==
@@ -3695,11 +3695,6 @@ split-string@^3.0.1, split-string@^3.0.2:
   integrity sha512-NzNVhJDYpwceVVii8/Hu6DKfD2G+NrQHlS/V/qgv763EYudVwEcMQNxd2lh+0VrUByXN/oJkl5grOhYWvQUYiw==
   dependencies:
     extend-shallow "^3.0.0"
-
-springedge@^1.0.5:
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/springedge/-/springedge-1.0.5.tgz#f9518b08e9e1330db05d524b15d92722b7338e5b"
-  integrity sha512-S9+gP2DaoWyTZlsZ6GmG0wqJeSW2NSDH9P2oaw+i+TFa5UUONLGT0cWfHqcIkXMeDwA4NsGT0i5a/a1SseaAyw==
 
 sprintf-js@~1.0.2:
   version "1.0.3"
